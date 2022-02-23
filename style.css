@@ -2,7 +2,6 @@ body {
   background-color: hsl(212, 45%, 89%);
 }
 
-
 .container {
     position: absolute;
     left: 50%;
@@ -15,7 +14,6 @@ body {
     border-radius: 20px;
     box-shadow: 0 0 5px 2px hsl(211deg 28% 83%);
 }
-
 
 h1 {
     font-size: 23px;

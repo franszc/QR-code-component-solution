@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/franszc/QR-code-component-solution)
-- Live Site URL: [Add live site URL here](franszc/Desafio-de-componente-de-codigo-QR)
+- Solution URL: [https://github.com/franszc/QR-code-component-solution]
+- Live Site URL: [franszc/Desafio-de-componente-de-codigo-QR]
 
 ### Built with
 
