@@ -1,0 +1,49 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 325px;
+    height: 500px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px 2px hsl(211deg 28% 83%);
+}
+
+
+h1 {
+    font-size: 23px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    margin: 20px 0;
+    padding: 10px 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+p {
+    font-size: 15px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    opacity: 0.7;
+    padding: 0 50px;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
