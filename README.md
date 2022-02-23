@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-![screenshot](./images/capdetela.png)
+![screenshot](./images/screenshot.png)
 
 ### Links
 

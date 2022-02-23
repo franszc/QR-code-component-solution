@@ -3,16 +3,12 @@ body {
 }
 
 .container {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    width: 325px;
-    height: 500px;
-    background-color: white;
-    padding: 20px;
+    padding: 1rem;
     border-radius: 20px;
-    box-shadow: 0 0 5px 2px hsl(211deg 28% 83%);
+    background-color: white;
+    margin: 5rem auto;
+    max-width: 320px;
+    text-align: center;
 }
 
 h1 {
